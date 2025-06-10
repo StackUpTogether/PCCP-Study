@@ -36,7 +36,7 @@ fs.writeFileSync(path.join(dir, "solution.js"), `// ${folderName}\n\n`);
 // 설명 템플릿 생성
 fs.writeFileSync(
   path.join(dir, "README.md"),
-  `# ${rawName}\n\n> 문제 링크: [바로가기]() \n\n## 🌱 문제 설명\n\n\n## 🤔 접근 방식\n\n\n`
+  `# ${rawName}\n\n> 🔗 문제 링크: [바로가기]() \n\n## 🌱 문제 설명\n\n\n## 🤔 접근 방식\n\n\n## 💡 주요 포인트\n\n\n`
 );
 
 console.log(`✅ '${folderName}' 폴더가 생성되었습니다.`);
