@@ -25,3 +25,14 @@
   |K번째수|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/K번째수)|
 
 </details>
+
+<details>
+  <summary>25.06.12</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |문자열 내 마음대로 정렬하기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/문자열_내_마음대로_정렬하기)|
+  |약수의 개수와 덧셈|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/약수의_개수와_덧셈)|
+  |가장 가까운 같은 글자|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/가장_가까운_같은_글자)|
+
+</details>
