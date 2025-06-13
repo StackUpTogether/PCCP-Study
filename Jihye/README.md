@@ -36,3 +36,14 @@
   |가장 가까운 같은 글자|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/가장_가까운_같은_글자)|
 
 </details>
+
+<details>
+  <summary>25.06.13</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |최소직사각형|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/최소직사각형)|
+  |이상한 문자 만들기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/이상한_문자_만들기)|
+  |예산|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/예산)|
+
+</details>
