@@ -47,3 +47,14 @@
   |예산|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/예산)|
 
 </details>
+
+<details>
+  <summary>25.06.16</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |두 개 뽑아서 더하기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/두_개_뽑아서_더하기)|
+  |소수 찾기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/소수_찾기)|
+  |콜라 문제|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/콜라_문제)|
+
+</details>
