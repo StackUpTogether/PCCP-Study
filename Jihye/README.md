@@ -58,3 +58,13 @@
   |콜라 문제|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/콜라_문제)|
 
 </details>
+
+<details>
+  <summary>25.06.17</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |동영상 재생기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/동영상_재생기)|
+  |과일 장수|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/과일_장수)|
+
+</details>
