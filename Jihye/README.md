@@ -68,3 +68,15 @@
   |과일 장수|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/과일_장수)|
 
 </details>
+
+<details>
+  <summary>25.06.18</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |최대공약수와 최소공배수|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/최대공약수와_최소공배수)|
+  |크기가 작은 부분문자열|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/크기가_작은_부분문자열)|
+  |삼총사|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/삼총사)|
+  |푸드 파이트 대회|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/푸드_파이트_대회)|
+
+</details>
