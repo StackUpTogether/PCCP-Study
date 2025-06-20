@@ -80,3 +80,13 @@
   |푸드 파이트 대회|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/푸드_파이트_대회)|
 
 </details>
+
+<details>
+  <summary>25.06.20</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |명예의 전당 (1)|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/명예의_전당_(1))|
+  |카드 뭉치|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/카드 뭉치)|
+
+</details>
