@@ -90,3 +90,12 @@
   |카드 뭉치|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/카드 뭉치)|
 
 </details>
+
+<details>
+  <summary>25.06.22</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |기사단원의 무기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/기사단원의_무기)|
+
+</details>
