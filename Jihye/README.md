@@ -47,3 +47,55 @@
   |예산|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/예산)|
 
 </details>
+
+<details>
+  <summary>25.06.16</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |두 개 뽑아서 더하기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/두_개_뽑아서_더하기)|
+  |소수 찾기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/소수_찾기)|
+  |콜라 문제|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/콜라_문제)|
+
+</details>
+
+<details>
+  <summary>25.06.17</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |동영상 재생기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/동영상_재생기)|
+  |과일 장수|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/과일_장수)|
+
+</details>
+
+<details>
+  <summary>25.06.18</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |최대공약수와 최소공배수|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/최대공약수와_최소공배수)|
+  |크기가 작은 부분문자열|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/크기가_작은_부분문자열)|
+  |삼총사|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/삼총사)|
+  |푸드 파이트 대회|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/푸드_파이트_대회)|
+
+</details>
+
+<details>
+  <summary>25.06.20</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |명예의 전당 (1)|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/명예의_전당_(1))|
+  |카드 뭉치|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/카드 뭉치)|
+
+</details>
+
+<details>
+  <summary>25.06.22</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |기사단원의 무기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/기사단원의_무기)|
+
+</details>
