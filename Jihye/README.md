@@ -99,3 +99,13 @@
   |기사단원의 무기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/기사단원의_무기)|
 
 </details>
+
+<details>
+  <summary>25.06.23</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |덧칠하기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/덧칠하기)|
+  |소수 만들기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/소수_만들기)|
+
+</details>
