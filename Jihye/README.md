@@ -109,3 +109,15 @@
   |소수 만들기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/소수_만들기)|
 
 </details>
+
+<details>
+  <summary>25.06.25</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |둘만의 암호|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/둘만의_암호)|
+  |옹알이 (2)|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/옹알이_(2))|
+  |문자열 나누기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/문자열_나누기)|
+  |대충 만든 자판|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/대충_만든_자판)|
+
+</details>
