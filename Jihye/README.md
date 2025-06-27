@@ -121,3 +121,13 @@
   |대충 만든 자판|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/대충_만든_자판)|
 
 </details>
+
+<details>
+  <summary>25.06.27</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |붕대 감기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/붕대_감기)|
+  |퍼즐 게임 챌린지|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/퍼즐_게임_챌린지)|
+
+</details>
