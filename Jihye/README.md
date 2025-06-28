@@ -131,3 +131,14 @@
   |퍼즐 게임 챌린지|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/퍼즐_게임_챌린지)|
 
 </details>
+
+<details>
+  <summary>25.06.28</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |최댓값과 최솟값|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/최댓값과_최솟값)|
+  |이진 변환 반복하기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/이진_변환_반복하기)|
+  |다음 큰 숫자|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/다음_큰_숫자)|
+
+</details>
