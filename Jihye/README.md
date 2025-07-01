@@ -142,3 +142,14 @@
   |다음 큰 숫자|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/다음_큰_숫자)|
 
 </details>
+
+<details>
+  <summary>25.07.1</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |숫자의 표현|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/숫자의_표현)|
+  |귤 고르기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/귤_고르기)|
+  |멀리 뛰기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/멀리_뛰기)|
+
+</details>
