@@ -153,3 +153,15 @@
   |멀리 뛰기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/멀리_뛰기)|
 
 </details>
+
+<details>
+  <summary>25.07.3</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |모의고사|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/모의고사)|
+  |택배 상자 꺼내기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/택배_상자_꺼내기)|
+  |영어 끝말잇기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/영어_끝말잇기)|
+  |카펫|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/카펫)|
+
+</details>
