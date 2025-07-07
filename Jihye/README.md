@@ -99,3 +99,69 @@
   |기사단원의 무기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/기사단원의_무기)|
 
 </details>
+
+<details>
+  <summary>25.06.23</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |덧칠하기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/덧칠하기)|
+  |소수 만들기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/소수_만들기)|
+
+</details>
+
+<details>
+  <summary>25.06.25</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |둘만의 암호|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/둘만의_암호)|
+  |옹알이 (2)|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/옹알이_(2))|
+  |문자열 나누기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/문자열_나누기)|
+  |대충 만든 자판|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/대충_만든_자판)|
+
+</details>
+
+<details>
+  <summary>25.06.27</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |붕대 감기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/붕대_감기)|
+  |퍼즐 게임 챌린지|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/퍼즐_게임_챌린지)|
+
+</details>
+
+<details>
+  <summary>25.06.28</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |최댓값과 최솟값|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/최댓값과_최솟값)|
+  |이진 변환 반복하기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/이진_변환_반복하기)|
+  |다음 큰 숫자|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/다음_큰_숫자)|
+
+</details>
+
+<details>
+  <summary>25.07.1</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |숫자의 표현|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/숫자의_표현)|
+  |귤 고르기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/귤_고르기)|
+  |멀리 뛰기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/멀리_뛰기)|
+
+</details>
+
+<details>
+  <summary>25.07.3</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |모의고사|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/모의고사)|
+  |택배 상자 꺼내기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_1/택배_상자_꺼내기)|
+  |영어 끝말잇기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/영어_끝말잇기)|
+  |카펫|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/카펫)|
+
+</details>
