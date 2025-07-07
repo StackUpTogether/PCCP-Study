@@ -178,3 +178,11 @@
   |괄호 회전하기|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/괄호_회전하기)|
 
 </details>
+
+<details>
+  <summary>25.07.7</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |게임 맵 최단거리|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/게임_맵_최단거리)|
+</details>
