@@ -202,3 +202,12 @@
   |--|--|
   |단어 변환|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_3/단어_변환)|
 </details>
+
+<details>
+  <summary>25.07.11</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |의상|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_2/의상)|
+  |베스트앨범|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_3/베스트앨범)|
+</details>
