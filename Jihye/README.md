@@ -194,3 +194,11 @@
   |--|--|
   |네트워크|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_3/네트워크)|
 </details>
+
+<details>
+  <summary>25.07.10</summary>
+
+  |문제명|풀이|
+  |--|--|
+  |단어 변환|[풀이](https://github.com/StackUpTogether/PCCP-Study/tree/Jihye/Jihye/programmers_level_3/단어_변환)|
+</details>
